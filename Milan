@@ -1,0 +1,12 @@
+docs/index.html
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Datenschutzrichtlinie</title>
+</head>
+<body>
+    <h1>Datenschutzrichtlinie für das VokabelQuiz</h1>
+    <p>Diese Seite ist ein Test. Später kommt hier der volle Text hin.</p>
+</body>
+</html>
